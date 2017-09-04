@@ -16,6 +16,7 @@ x64/
 build/
 [Bb]in/
 [Oo]bj/
+[Pp]roperties/PublishProfiles
 
 # NuGet Packages
 *.nupkg
